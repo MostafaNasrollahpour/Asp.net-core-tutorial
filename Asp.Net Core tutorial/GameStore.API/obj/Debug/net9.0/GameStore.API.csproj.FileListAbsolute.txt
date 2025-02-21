@@ -55,3 +55,9 @@ D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0
 D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.pdb
 D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.genruntimeconfig.cache
 D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\ref\GameStore.API.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\MinimalApis.Extensions.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\MiniValidation.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.csproj.AssemblyReference.cache
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStor.26D12FD2.Up2Date
