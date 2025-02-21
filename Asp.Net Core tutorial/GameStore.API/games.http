@@ -8,10 +8,10 @@ POST http://localhost:5193/games
 Content-Type: application/json
 
 {
-    "name": "Minecraft",
-    "genreId": 5,
-    "price": 19.99,
-    "releaseDate": "2011-11-18"
+    "name": "GTA",
+    "genreId": 1,
+    "price": 23.49,
+    "releaseDate": "2013-12-11"
 }
 
 ###
