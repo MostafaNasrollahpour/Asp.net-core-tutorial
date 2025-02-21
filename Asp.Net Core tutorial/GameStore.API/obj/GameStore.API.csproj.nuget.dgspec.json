@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {}
+    "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {
+    "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
+        "projectUniqueName": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
         "projectName": "GameStore.API",
-        "projectPath": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
+        "projectPath": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
         "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\obj\\",
+        "outputPath": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config"

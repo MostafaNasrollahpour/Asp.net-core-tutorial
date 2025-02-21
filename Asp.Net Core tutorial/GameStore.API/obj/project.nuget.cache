@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnu67wiA0zk=",
+  "dgSpecHash": "IkuIAJ2WDEg=",
   "success": true,
-  "projectFilePath": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
+  "projectFilePath": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mosta\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\mosta\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
