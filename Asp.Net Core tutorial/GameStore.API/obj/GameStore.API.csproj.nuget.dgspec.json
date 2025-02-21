@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {}
+    "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {}
   },
   "projects": {
-    "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {
+    "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
+        "projectUniqueName": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
         "projectName": "GameStore.API",
-        "projectPath": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
+        "projectPath": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\GameStore.API.csproj",
         "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\obj\\",
+        "outputPath": "D:\\C#\\Asp.Net Core tutorial\\Asp.Net Core tutorial\\GameStore.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,12 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.2, )"
             },
