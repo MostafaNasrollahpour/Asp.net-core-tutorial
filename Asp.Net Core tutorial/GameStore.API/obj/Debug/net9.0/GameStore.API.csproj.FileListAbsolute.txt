@@ -26,3 +26,32 @@ D:\C#\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\refint\GameStore.API.
 D:\C#\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.pdb
 D:\C#\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.genruntimeconfig.cache
 D:\C#\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\ref\GameStore.API.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\appsettings.Development.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\appsettings.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\GameStore.API.staticwebassets.endpoints.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\GameStore.API.exe
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\GameStore.API.deps.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\GameStore.API.runtimeconfig.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\GameStore.API.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\bin\Debug\net9.0\GameStore.API.pdb
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.AssemblyInfoInputs.cache
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.AssemblyInfo.cs
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.csproj.CoreCompileInputs.cache
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.sourcelink.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\scopedcss\bundle\GameStore.API.styles.css
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets\msbuild.GameStore.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets\msbuild.GameStore.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets\msbuild.build.GameStore.API.props
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.API.props
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GameStore.API.props
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\staticwebassets.pack.json
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\refint\GameStore.API.dll
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.pdb
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\GameStore.API.genruntimeconfig.cache
+D:\C#\Asp.Net Core tutorial\Asp.Net Core tutorial\GameStore.API\obj\Debug\net9.0\ref\GameStore.API.dll
